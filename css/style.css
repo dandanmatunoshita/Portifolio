@@ -56,3 +56,31 @@
     justify-content: center;
 }
 
+.line_info{
+    padding: 0 130px 0 130px;
+}
+
+.line_info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #171513;
+    height: 80px;
+    margin-top: 80px;
+}
+
+.line_info p{
+    background: transparent;
+    color: #fff;
+
+}
+.line_info img{
+    background: transparent;
+}
+
+.formation_title{
+    display: flex;
+}
+
+
+
